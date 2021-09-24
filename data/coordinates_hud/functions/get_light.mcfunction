@@ -1,0 +1,16 @@
+execute at @a if predicate coordinates_hud:light0 run scoreboard players set @s LightLevel 0
+execute at @a if predicate coordinates_hud:light1 run scoreboard players set @s LightLevel 1
+execute at @a if predicate coordinates_hud:light2 run scoreboard players set @s LightLevel 2
+execute at @a if predicate coordinates_hud:light3 run scoreboard players set @s LightLevel 3
+execute at @a if predicate coordinates_hud:light4 run scoreboard players set @s LightLevel 4
+execute at @a if predicate coordinates_hud:light5 run scoreboard players set @s LightLevel 5
+execute at @a if predicate coordinates_hud:light6 run scoreboard players set @s LightLevel 6
+execute at @a if predicate coordinates_hud:light7 run scoreboard players set @s LightLevel 7
+execute at @a if predicate coordinates_hud:light8 run scoreboard players set @s LightLevel 8
+execute at @a if predicate coordinates_hud:light9 run scoreboard players set @s LightLevel 9
+execute at @a if predicate coordinates_hud:light10 run scoreboard players set @s LightLevel 10
+execute at @a if predicate coordinates_hud:light11 run scoreboard players set @s LightLevel 11
+execute at @a if predicate coordinates_hud:light12 run scoreboard players set @s LightLevel 12
+execute at @a if predicate coordinates_hud:light13 run scoreboard players set @s LightLevel 13
+execute at @a if predicate coordinates_hud:light14 run scoreboard players set @s LightLevel 14
+execute at @a if predicate coordinates_hud:light15 run scoreboard players set @s LightLevel 15

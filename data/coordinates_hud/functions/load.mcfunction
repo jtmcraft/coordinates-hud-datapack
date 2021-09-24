@@ -1,5 +1,7 @@
 # Creates all scores required by the datapack
 
+scoreboard objectives add LightLevel dummy ["Position's light level"]
+
 scoreboard objectives add ch_help trigger "show coordinates hud config"
 scoreboard objectives add ch_toggle trigger "toggle coordinates hud"
 scoreboard objectives add ch_toggleCons dummy
